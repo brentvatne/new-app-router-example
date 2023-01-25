@@ -1,4 +1,10 @@
 {
-  "name": "NewAppRouterExample",
-  "displayName": "NewAppRouterExample"
+  "expo": {
+    "name": "my-app",
+    "slug": "my-app",
+    "scheme": "myapp",
+    "web": {
+      "bundler": "metro"
+    }
+  }
 }
